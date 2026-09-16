@@ -1,18 +1,94 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I’m Khairi — an automation developer passionate about building practical systems that make work simpler, faster, and more reliable.<br><br>⚙️ I design workflows with n8n and Make to connect business tools, APIs, databases, and team processes.<br><br>🤖 I’m expanding my skills in LLMs, AI agents, tool calling, and intelligent workflow automation.<br><br>🔌 I enjoy turning repetitive tasks into clear, maintainable, and measurable systems.<br><br>🧠 My focus is on structured data, validation, error handling, human review, and dependable automation.<br><br>💻 I’m also developing my skills in TypeScript, JavaScript, Postgres, and modern developer tools.<br><br>🎨 With a background in Industrial Design, I combine technical thinking with creativity and attention to user experience.<br><br>🌍 Open to remote opportunities in AI automation, agent engineering, and technical operations.
+# 👋 Hi, I'm Khairi
 
+### Automation Developer · AI Agent Builder · Full-Stack Developer
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ThoughtNook.A.I) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khairiix3@gmail.com) 
+I build practical automation and agent systems that connect APIs, business tools, databases, AI models, and human review.
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kiraxo&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kiraxo&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kiraxo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 🤖 Building AI agents and multi-step automation with **n8n, OpenAI, Go, and GraphQL**
+* ⚙️ Experienced in connecting APIs, databases, webhooks, and business platforms
+* 🧠 Focused on evidence validation, structured data, error handling, and measurable results
+* 🐳 Building reproducible applications with **Docker and PostgreSQL**
+* 💻 Developing full-stack systems with **Go, TypeScript, React, and GraphQL**
+* 📱 Built and published Android applications on Google Play
+* 🎬 Built long-running automated video-generation and publishing agents
+* 🎨 Industrial Design background with a strong focus on usability and clear interfaces
+* 🌍 Based in Italy and open to remote opportunities in AI automation and agent engineering
 
 ---
-[![](https://komarev.com/ghpvc/?username=kiraxo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Project
+
+### [🔎 Feedback Investigator](https://github.com/kiraxo/feedback-investigator)
+
+An evidence-based customer feedback investigation agent platform.
+
+It classifies feedback, validates exact evidence, detects recurring problems, compares reporting periods, creates prioritized investigation tasks, and preserves completed runs in PostgreSQL.
+
+**Technology:** Go · GraphQL · PostgreSQL · TypeScript · React · Docker · n8n · GPT-5 mini
+
+✅ Complete local demo
+✅ No API key required for demo mode
+✅ GraphQL API
+✅ PostgreSQL persistence
+✅ TypeScript reviewer dashboard
+✅ Docker Compose setup
+✅ Automated Go tests
+✅ Original n8n AI workflow included
+
+```bash
+git clone https://github.com/kiraxo/feedback-investigator.git
+cd feedback-investigator
+cp .env.example .env
+docker compose up --build -d
+```
+
+Dashboard: `http://localhost:3000`
+
+---
+
+## 🛠️ Tech Stack
+
+### AI and Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge\&logo=make\&logoColor=white)
+
+### Development
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+
+### Data and Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 🔗 Connect With Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-ThoughtNook.A.I-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@ThoughtNook.A.I)
+[![Email](https://img.shields.io/badge/Email-khairiix3%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khairiix3@gmail.com)
+
+---
+
+## 📊 GitHub Activity
+
+![Khairi's GitHub stats](https://github-readme-stats.shion.dev/api?username=kiraxo\&theme=react\&hide_border=true\&include_all_commits=true\&count_private=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=kiraxo\&theme=react\&hide_border=true\&layout=compact)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=kiraxo\&color=5865F2\&style=flat-square)
